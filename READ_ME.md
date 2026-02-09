@@ -1,28 +1,3 @@
-Conversation opened. 2 messages. 2 messages unread.
-
-Skip to content
-Using Gmail with screen readers
-1 of 8,385
-(no subject)
-Inbox
-
-NIVED KRISHNA
-9:37 AM (15 minutes ago)
-to me
-
-https://texo-backoffice-966597289997.europe-west1.run.app/
-
-NIVED KRISHNA
-Attachments
-9:45 AM (6 minutes ago)
-to me
-
-
-
-On Mon, Feb 9, 2026 at 9:36 AM NIVED KRISHNA <nithupd@gmail.com> wrote:
-https://texo-backoffice-966597289997.europe-west1.run.app/
- One attachment
-  •  Scanned by Gmail
 # TEXO Platform - End-to-End QA Test Plan
 
 **Document Version:** 1.0  
